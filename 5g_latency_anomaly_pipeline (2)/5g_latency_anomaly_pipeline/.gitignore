@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+data/raw/*.csv
+data/processed/*.csv
+artifacts/*.pt
+artifacts/*.pkl
+reports/*.csv
